@@ -25,3 +25,4 @@
 🎓Student of Specialization in Data Science with Python in Cibertec.
 
 🎓Student of 'El cultural,Centro Peruano Americano'. 
+🎓 Microsoft Office Programs
